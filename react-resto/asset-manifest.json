@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a50940e.chunk.css",
+    "main.js": "/static/js/main.4e3e84d0.chunk.js",
+    "main.js.map": "/static/js/main.4e3e84d0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.844a88dc.chunk.js": "/static/js/2.844a88dc.chunk.js",
+    "static/js/2.844a88dc.chunk.js.map": "/static/js/2.844a88dc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5e4b2713dd3e1952a2b9c0282d4fe3ad.js": "/precache-manifest.5e4b2713dd3e1952a2b9c0282d4fe3ad.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7a50940e.chunk.css.map": "/static/css/main.7a50940e.chunk.css.map",
+    "static/media/food-bg.jpg": "/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
